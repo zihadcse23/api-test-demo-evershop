@@ -1,14 +1,14 @@
-### Demo Evershop Site API Testing
+## Demo Evershop Site API Testing
 
-Feature: Search, Add to Cart and Verify Cart
+Feature: Search, Add to Cart and Verify Cart <br>
 Testing Scope: API Testing
 
-## Author: [Zihad](https://github.com/zihadcse23)
+### Author: [Zihad](https://github.com/zihadcse23)
 
 
-## Assessment
+### Assessment
 
-## Clone Locally
+### Clone Locally
 ```bash 
 git clone https://github.com/zihadcse23/api-test-demo-evershop
 ```
