@@ -1,7 +1,7 @@
 ## Demo Evershop Site API Testing
 
-Feature: Search, Add to Cart and Verify Cart <br>
-Testing Scope: API Testing
+Feature: Search, Product Details, Add to Cart and Verify Cart <br>
+Testing Scope: API Testing <br>
 Test Environment: https://demo.evershop.io/
 
 ### Author: [Zihad](https://github.com/zihadcse23)
