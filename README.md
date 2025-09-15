@@ -2,6 +2,7 @@
 
 ### Introduction
 This document outlines the API testing of core eCommerce functionalities provided by the EverShop demo environment. The purpose of this testing is to validate the correctness, reliability, and consistency of API responses for essential user interactions in an online shopping experience. <br>
+
 **The scope of the test focuses on four key features that constitute a typical workflow:**
 
 **1. Search:** Validating that product search APIs return accurate and relevant results based on keywords, filters, or categories.
