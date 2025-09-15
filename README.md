@@ -6,12 +6,14 @@ This document outlines the API testing of core eCommerce functionalities provide
 **Feature:** Search, Product Details, Add to Cart and Verify Cart <br>
 **Testing Scope:** API Testing <br>
 **Test Environment:** <a href="https://demo.evershop.io/" target="_blank">https://demo.evershop.io/</a> <br>
-**Product Name:** Nike odyssey react flyknit 2
+
+
+Product Name: Nike odyssey react flyknit 2
 
 ### Author: [Zihad](https://github.com/zihadcse23)
 
 
-//### Assessment
+### Assessment
 
 ### Clone Locally
 ```bash 
