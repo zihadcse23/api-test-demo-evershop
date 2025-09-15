@@ -17,8 +17,6 @@ This document outlines the API testing of core eCommerce functionalities provide
 ### Author: [Zihad](https://github.com/zihadcse23)
 
 
-### Assessment
-
 ### Clone Locally
 ```bash 
 git clone https://github.com/zihadcse23/api-test-demo-evershop
