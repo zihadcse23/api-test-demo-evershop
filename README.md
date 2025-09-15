@@ -2,6 +2,7 @@
 
 Feature: Search, Add to Cart and Verify Cart <br>
 Testing Scope: API Testing
+Test Environment: https://demo.evershop.io/
 
 ### Author: [Zihad](https://github.com/zihadcse23)
 
