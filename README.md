@@ -1,6 +1,6 @@
 ## Demo Evershop Site API Testing
 
-### Introduction
+### Summary
 This document outlines the API testing of core eCommerce functionalities provided by the EverShop demo environment. The purpose of this testing is to validate the correctness, reliability, and consistency of API responses for essential user interactions in an online shopping experience. <br>
 
 **The scope of the test focuses on four key features that constitute a typical workflow:** <br>
@@ -15,7 +15,6 @@ This document outlines the API testing of core eCommerce functionalities provide
 **Product Name:** Nike odyssey react flyknit 2
 
 ### Author: [Zihad](https://github.com/zihadcse23)
-
 
 ### Clone Locally
 ```bash 
