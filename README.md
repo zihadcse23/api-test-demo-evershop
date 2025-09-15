@@ -4,8 +4,8 @@
 This document outlines the API testing of core eCommerce functionalities provided by the EverShop demo environment.<br>
 The purpose of this testing is to validate the correctness, reliability, and consistency of API responses for essential user interactions in an online shopping experience.
 
-Feature: Search, Product Details, Add to Cart and Verify Cart <br>
-Testing Scope: API Testing <br>
+**Feature:** Search, Product Details, Add to Cart and Verify Cart <br>
+**Testing Scope:** API Testing <br>
 Test Environment: https://demo.evershop.io/
 Product Name: Nike odyssey react flyknit 2
 
