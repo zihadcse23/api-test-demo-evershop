@@ -6,8 +6,8 @@ The purpose of this testing is to validate the correctness, reliability, and con
 
 **Feature:** Search, Product Details, Add to Cart and Verify Cart <br>
 **Testing Scope:** API Testing <br>
-Test Environment: https://demo.evershop.io/
-Product Name: Nike odyssey react flyknit 2
+**Test Environment:** https://demo.evershop.io/  <br>
+**Product Name:** Nike odyssey react flyknit 2
 
 ### Author: [Zihad](https://github.com/zihadcse23)
 
